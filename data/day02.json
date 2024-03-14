@@ -1,0 +1,23 @@
+[
+    {
+        "Product": "Notebook Gamer",
+        "Category": "Eletrônicos",
+        "Quantity": 7,
+        "Price": 1500,
+        "Date": "2023-01-16"
+    },
+    {
+        "Product": "Mouse Sem Fio",
+        "Category": "Eletrônicos",
+        "Quantity": 10,
+        "Price": 30,
+        "Date": "2023-01-16"
+    },
+    {
+        "Product": "Teclado Mecânico",
+        "Category": "Eletrônicos",
+        "Quantity": 3,
+        "Price": 100,
+        "Date": "2023-01-16"
+    }
+]
