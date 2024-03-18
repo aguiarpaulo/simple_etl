@@ -29,5 +29,4 @@ def pipeline(folder: str, output_format: list ):
     data_frame = extract_data_and_join(folder)
     calculated_data_frame = calculate_total_sales_kpi(data_frame)
     load_data(calculated_data_frame,output_format)
-
     #A function that load csv or parquet
